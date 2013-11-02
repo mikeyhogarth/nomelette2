@@ -1,4 +1,4 @@
-nomelette2
-==========
+Nomelette 2
+===========
 
-Nomelette2
+Version 2.0 of the recipe site "Nomelette"
