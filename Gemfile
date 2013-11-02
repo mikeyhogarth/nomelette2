@@ -27,8 +27,8 @@ gem 'bcrypt-ruby', '~> 3.0.0' # Allow has_secure_password in ActiveModel
 gem 'omniauth'
 gem 'omniauth-facebook'
 
-# Use unicorn as the app server
-gem 'unicorn'
+# Thin web server
+gem 'thin'
 
 # Use Capistrano for deployment
 gem 'rvm-capistrano', :group => :development
